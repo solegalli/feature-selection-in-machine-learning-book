@@ -6,7 +6,7 @@
 
 Published August, 2022
 
-[<img src="./fFSML-bookcover.png" width="248">](https://leanpub.com/feature-selection-in-machine-learning)
+[<img src="./FSML-bookcover.png" width="248">](https://leanpub.com/feature-selection-in-machine-learning)
 
 ## Links
 
