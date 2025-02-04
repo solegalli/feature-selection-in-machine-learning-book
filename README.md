@@ -4,7 +4,7 @@
 ## Feature Selection in Machine Learning Book - Code Repository
 
 - Published: August, 2022
-- Updated: December, 2024
+- Updated: February, 2025
 
 [<img src="./FSML-bookcover.png" width="248">](https://www.trainindata.com/p/feature-selection-in-machine-learning-book)
 
