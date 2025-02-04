@@ -42,11 +42,13 @@
 6. **Embedded Methods: Linear Model Coefficients**
 	1. Lasso
 	2. Decision tree feature importance
-	3. Recursive feature elimination based on importance 
 
-7. **Alternative Feature Selection Methods**
+7. **Recursive Feature Elimination**
+	1. RFE - embedded importance
+	2. RFE - model performance
+
+8. **Alternative Feature Selection Methods**
 	1. Feature Shuffling
-	2. Recursive Feature Elimination
 	3. Recursive Feature Addition
 	4. Probe Features
 	5. MRMR
