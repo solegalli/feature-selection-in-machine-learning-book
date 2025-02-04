@@ -50,7 +50,6 @@
 	3. Recursive Feature Addition
 	4. Probe Features
 	5. MRMR
-	6. Information Value
 
 
 - [Book](https://www.trainindata.com/p/feature-selection-in-machine-learning-book)
