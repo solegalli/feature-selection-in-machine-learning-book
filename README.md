@@ -4,7 +4,7 @@
 ## Feature Selection in Machine Learning Book - Code Repository
 
 - Published: August, 2022
-- Updated: February, 2025
+- Updated: May, 2026
 
 [<img src="./FSML-bookcover.png" width="248">](https://www.trainindata.com/p/feature-selection-in-machine-learning-book)
 
@@ -49,10 +49,35 @@
 
 8. **Alternative Feature Selection Methods**
 	1. Feature Shuffling
-	3. Recursive Feature Addition
-	4. Probe Features
-	5. MRMR
+	2. Recursive Feature Addition
+	3. Probe Features
+	4. MRMR
+	5. Boruta
 
+## Buy the Book
 
 - [Book](https://www.trainindata.com/p/feature-selection-in-machine-learning-book)
 
+## Setup
+
+If you want to run the recipes of this book in a dedicated environment:
+
+**Create and activate a virtual environment**
+```bash
+python -m venv fsmlbook
+source fsmlbook/bin/activate        # macOS/Linux
+fsmlbook\Scripts\activate           # Windows
+```
+
+**Install dependencies**
+```bash
+pip install -r requirements.txt
+```
+
+**Install Jupyter and register the kernel**
+```bash
+pip install jupyter ipykernel
+python -m ipykernel install --user --name=fsmlbook --display-name "fsmlbook"
+```
+
+The environment will now be available as a kernel named **fsmlbook** in Jupyter Notebook.
